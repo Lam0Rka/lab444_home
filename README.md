@@ -58,3 +58,4 @@ $ git commit -m"Hooray"
  create mode 100644 .travis.yml
 git push origin main
 ```
+Добавление значков
