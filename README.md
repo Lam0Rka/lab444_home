@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/Lam0Rka/lab444_home.svg?branch=master)](https://travis-ci.com/Lam0Rka/lab444_home)
 ## Homework
 
 Вы продолжаете проходить стажировку в "Formatter Inc." (см [подробности](https://github.com/tp-labs/lab03#Homework)).
